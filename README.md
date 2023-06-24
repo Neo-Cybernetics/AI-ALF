@@ -8,7 +8,7 @@ As AI technology continues to advance and permeate various sectors of society, i
 
 Against this backdrop, understanding and navigating the rapidly changing landscape of AI becomes crucial for every individual, regardless of their technical background or digital proficiency.
 
-### Goals
+### Purpose
 
 The aim of this framework is twofold:
 
@@ -22,6 +22,12 @@ By mapping out the diverse spectrum of AI literacy in the population, from the u
 
 In the context of AI development, a comprehensive understanding of the public's knowledge about AI can inform the creation of more user-friendly and accessible AI technologies. By acknowledging and catering to the differing levels of AI literacy in the population, AI developers can design systems that are easily comprehensible and usable by a wide range of people.
 
+The categories within this framework, both in the Attitude and Literacy dimensions, are not meant to be strict boxes that rigidly define an individual's stance or level of understanding towards AI. Instead, they should be viewed as points along a spectrum, representing a gradient of attitudes and knowledge.
+
+Individuals may not fit perfectly into one category, but may instead exhibit characteristics from several categories. For example, someone might be a 'sceptic' with a hint of 'pessimism' or an 'optimist' who also embodies elements of 'utopian' vision. Similarly, in the Knowledge dimension, someone might be 'aware' of AI but also show the inquisitive nature characteristic of 'beginners'.
+
+This fluidity reflects the complexity and diversity of human understanding and attitudes towards AI. The aim of this framework is not to compartmentalize, but rather to provide a broad understanding of where individuals or groups might predominantly align in terms of their AI acceptance and understanding. It is designed to foster dialogue, guide education and policy, and encourage inclusivity and diversity in the AI space.
+
 
 ### Ethics
 
@@ -34,6 +40,10 @@ Secondly, we must respect different levels of knowledge about AI, from the unawa
 Finally, it is within our collective power to contribute to the increase of knowledge about AI. We all have a role in promoting transparency, accessibility, and understanding of AI. This can be achieved through education, open discussions, or the development of user-friendly AI technologies. By sharing knowledge and encouraging exploration of AI, we empower each other to engage critically with this technology, fostering a more informed and resilient society.
 
 We aspire to a society that is not only informed about AI, but also actively engages in discussions about its ethical, social, and economic impacts. 
+
+### Methodology
+
+
 
 ### Call to action
 
