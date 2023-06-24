@@ -41,10 +41,6 @@ Finally, it is within our collective power to contribute to the increase of know
 
 We aspire to a society that is not only informed about AI, but also actively engages in discussions about its ethical, social, and economic impacts. 
 
-### Methodology
-
-
-
 ### Call to action
 
 This framework serves as a call to action for everyone to contribute to shaping the future of AI. It advocates for inclusivity, diversity, respect, and collective growth, all of which are crucial for navigating our synthetic age responsibly and equitably.
