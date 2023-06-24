@@ -12,7 +12,7 @@ Against this backdrop, understanding and navigating the rapidly changing landsca
 
 The aim of this framework is twofold:
 
-Firstly, it seeks categorize the diverse perspectives and levels of acceptance individuals have towards AI through the 'Acceptance' dimension. From fatalists to enthusiasts, each attitude towards AI provides unique insights into how people perceive and interact with this technology. 
+Firstly, it seeks categorize the diverse perspectives and levels of acceptance individuals have towards AI through the 'Attitude' dimension. From fatalists to enthusiasts, each attitude towards AI provides unique insights into how people perceive and interact with this technology.
 
 Recognizing these diverse perspectives fosters an inclusive discourse around AI and its impacts, promoting societal resilience and adaptability in an era of accelerating technological change.
 
