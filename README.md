@@ -33,7 +33,7 @@ This fluidity reflects the complexity and diversity of human understanding and a
 
 By publishing this framework, we intend to underscore the significance of the collective contribution to the development of AI, and stress that every perspective matters. As AI continues to evolve and impact our lives in myriad ways, it is imperative that its development is informed by a diverse array of perspectives.
 
-Firstly, we must respect different opinions. The spectrum of views from fatalists to enthusiasts provides us with a wide lens to examine the possible societal implications of AI, helping us foresee potential challenges and address them proactively. Every perspective, whether critical or supportive, adds a unique dimension to the ongoing conversation about AI.
+Firstly, we must respect different opinions. The spectrum of views from fatalists to utopians provides us with a wide lens to examine the possible societal implications of AI, helping us foresee potential challenges and address them proactively. Every perspective, whether critical or supportive, adds a unique dimension to the ongoing conversation about AI.
 
 Secondly, we must respect different levels of knowledge about AI, from the unaware to the experts. Understanding where individuals or groups sit on this spectrum allows us to identify where knowledge gaps exist and where resources might be most effectively allocated to improve AI literacy.
 
